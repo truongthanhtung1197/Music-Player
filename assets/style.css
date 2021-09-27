@@ -38,7 +38,7 @@
   
   .dashboard {
     padding: 16px 16px 14px;
-    background-image: url('./assets/img/360_F_298704550_x2ck5Rk3xnxUYEAr3kNUt7Ri1dHssBrg.jpg');
+    background-image: url('../assets/img/360_F_298704550_x2ck5Rk3xnxUYEAr3kNUt7Ri1dHssBrg.jpg');
     position: fixed;
     top: 0;
     width: 100%;
@@ -130,7 +130,7 @@
   
   /* PLAYLIST */
   .playlist {
-    background-image: url('./assets/img/360_F_298704550_x2ck5Rk3xnxUYEAr3kNUt7Ri1dHssBrg.jpg');
+    background-image: url('../assets/img/360_F_298704550_x2ck5Rk3xnxUYEAr3kNUt7Ri1dHssBrg.jpg');
 
     margin-top: 408px;
     padding: 12px;
